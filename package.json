@@ -1,7 +1,7 @@
 {
-  "name": "qr-code-component-main",
+  "name": "qr-code",
   "version": "1.0.0",
-  "description": "frontend mentor challenge qr-code-component-main",
+  "description": "frontend mentor challenge qr-code-component",
   
   "scripts": {
     "start": "parcel index.html",

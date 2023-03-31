@@ -1,13 +1,13 @@
 4556
 44/home/milan/github/qr-code/package-lock.json1680242379064979083 0
-39/home/milan/github/qr-code/package.json1680175640817615000 0
+39/home/milan/github/qr-code/package.json1680243736711873312 0
 55/home/milan/github/qr-code/src/images/favicon-32x32.png1642763034000000000 0
 55/home/milan/github/qr-code/src/images/image-qr-code.png1642763034000000000 0
 45/home/milan/github/qr-code/src/sass/main.scss1680182486656317000 0
 35/home/milan/github/qr-code/src/sass1680176119722052000 1
-51/home/milan/github/qr-code/dist/qr-code.3464ddca.js1680243367564415750 0
-55/home/milan/github/qr-code/dist/qr-code.3464ddca.js.map1680243367568415656 0
-42/home/milan/github/qr-code/dist/index.html1680243367524416684 0
+51/home/milan/github/qr-code/dist/qr-code.3464ddca.js1680243749967568833 0
+55/home/milan/github/qr-code/dist/qr-code.3464ddca.js.map1680243749975568649 0
+42/home/milan/github/qr-code/dist/index.html1680243749975568649 0
 56/home/milan/github/qr-code/node_modules/terser/README.md1680242378436992968 0
 57/home/milan/github/qr-code/node_modules/terser/PATRONS.md1680242378432993056 0
 54/home/milan/github/qr-code/node_modules/terser/LICENSE1680242377993002784 0
@@ -968,7 +968,7 @@
 50/home/milan/github/qr-code/node_modules/acorn/dist1680242378224997655 1
 84/home/milan/github/qr-code/node_modules/caniuse-lite/data/features/battery-status.js1680242378280996417 0
 85/home/milan/github/qr-code/node_modules/caniuse-lite/data/features/x-doc-messaging.js1680242378592989519 0
-31/home/milan/github/qr-code/dist1680243367568415656 1
+31/home/milan/github/qr-code/dist1680243749991568283 1
 69/home/milan/github/qr-code/node_modules/lightningcss/node/ast.js.flow1680242378124999866 0
 84/home/milan/github/qr-code/node_modules/caniuse-lite/data/features/css-namespaces.js1680242378472992172 0
 77/home/milan/github/qr-code/node_modules/caniuse-lite/data/features/picture.js1680242378568990050 0
@@ -1066,7 +1066,7 @@
 84/home/milan/github/qr-code/node_modules/caniuse-lite/data/features/css-cross-fade.js1680242378444992791 0
 77/home/milan/github/qr-code/node_modules/caniuse-lite/data/features/netinfo.js1680242378564990138 0
 76/home/milan/github/qr-code/node_modules/caniuse-lite/data/features/jpegxl.js1680242378548990491 0
-54/home/milan/github/qr-code/dist/index.f7626f62.css.map1680243367540416310 0
+54/home/milan/github/qr-code/dist/index.f7626f62.css.map1680243749943569385 0
 92/home/milan/github/qr-code/node_modules/caniuse-lite/data/features/form-submit-attributes.js1680242378532990845 0
 92/home/milan/github/qr-code/node_modules/caniuse-lite/data/features/indeterminate-checkbox.js1680242378540990668 0
 84/home/milan/github/qr-code/node_modules/caniuse-lite/data/features/viewport-units.js1680242378588989607 0
@@ -3032,7 +3032,7 @@
 90/home/milan/github/qr-code/node_modules/@parcel/transformer-react-refresh-wrap/src/helpers1680242378132999689 1
 78/home/milan/github/qr-code/node_modules/@swc/helpers/src/_get_prototype_of.mjs1680242378412993499 0
 90/home/milan/github/qr-code/node_modules/@parcel/core/test/PublicMutableBundleGraph.test.js1680242378460992438 0
-50/home/milan/github/qr-code/dist/index.f7626f62.css1680243367524416684 0
+50/home/milan/github/qr-code/dist/index.f7626f62.css1680243749943569385 0
 72/home/milan/github/qr-code/node_modules/svgo/plugins/removeEmptyAttrs.js1680242378284996329 0
 61/home/milan/github/qr-code/node_modules/svgo/lib/svgo-node.js1680242378336995179 0
 68/home/milan/github/qr-code/node_modules/color-convert/conversions.js1680242378013002343 0
@@ -3191,7 +3191,7 @@
 82/home/milan/github/qr-code/node_modules/@parcel/transformer-react-refresh-wrap/src1680242378124999866 1
 59/home/milan/github/qr-code/node_modules/ansi-styles/license1680242377981003050 0
 73/home/milan/github/qr-code/node_modules/@parcel/graph/lib/ContentGraph.js1680242378136999601 0
-58/home/milan/github/qr-code/dist/image-qr-code.b7d57f8c.png1680243367524416684 0
+58/home/milan/github/qr-code/dist/image-qr-code.b7d57f8c.png1680243749991568283 0
 60/home/milan/github/qr-code/node_modules/import-fresh/license1680242377981003050 0
 61/home/milan/github/qr-code/node_modules/domutils/lib/index.js1680242378045001635 0
 72/home/milan/github/qr-code/node_modules/node-gyp-build/node-gyp-build.js1680242378025002077 0
@@ -3814,7 +3814,7 @@
 75/home/milan/github/qr-code/node_modules/@parcel/runtime-js/lib/helpers/node1680242378256996948 1
 91/home/milan/github/qr-code/node_modules/@parcel/optimizer-htmlnano/src/HTMLNanoOptimizer.js1680242378033001900 0
 81/home/milan/github/qr-code/node_modules/lmdb/node_modules/node-addon-api/index.js1680242378220997744 0
-58/home/milan/github/qr-code/dist/favicon-32x32.3a4ddde5.png1680243367552416030 0
+58/home/milan/github/qr-code/dist/favicon-32x32.3a4ddde5.png1680243749955569110 0
 68/home/milan/github/qr-code/node_modules/nth-check/lib/esm/parse.d.ts1680242378200998186 0
 93/home/milan/github/qr-code/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js.map1680242378408993587 0
 71/home/milan/github/qr-code/node_modules/caniuse-lite/data/regions/SL.js1680242378572989961 0

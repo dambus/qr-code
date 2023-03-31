@@ -16,5 +16,5 @@
 .prettierignore
 
 # and others...
-node_modules
-.parcel_cache
+node_modules/
+.parcel_cache/

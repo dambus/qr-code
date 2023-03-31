@@ -2,6 +2,7 @@
   "name": "qr-code",
   "version": "1.0.0",
   "description": "frontend mentor challenge qr-code-component",
+  "main": "index.js",
   
   "scripts": {
     "start": "parcel index.html",
